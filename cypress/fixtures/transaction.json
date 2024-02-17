@@ -1,0 +1,34 @@
+{
+  "transactionTypeCode": "CARD_PUR",
+  "money": {
+    "amount": 1.22,
+    "currencyCode": "EUR"
+  },
+  "valueDate": "2024-02-16",
+  "source": {
+    "sourceName": "string",
+    "sourceRef": "string",
+    "sourceLink": ""
+  },
+
+  "contractSource": {
+    "sourceName": "string",
+    "sourceRef": "string",
+    "sourceLink": "",
+    "contractNumber": "string"
+  },
+  "transactionTime": "2024-02-17T14:11:16Z",
+
+  "counterparty": {
+    "name": "Peter Alexander Schmidt",
+    "accountNumber": {
+      "value": "DE89370400440532013000",
+      "type": "IBAN"
+    },
+    "accountNumberCountryCode": "EE",
+    "financialInstitutionId": {
+      "value": "MAINDE2XXXX",
+      "type": "BIC"
+}
+}
+}

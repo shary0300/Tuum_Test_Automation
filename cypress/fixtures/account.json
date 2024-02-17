@@ -1,0 +1,37 @@
+{
+  "accountTypeCode": "CURRENCY",
+
+
+  "accountName": "My business account",
+  "personName": "Peter Alexander Schmidt",
+
+  "source": {
+    "sourceName": "string",
+    "sourceRef": "string",
+    "sourceLink": ""
+  },
+
+  "residencyCountryCode": "DE",
+  "customerGroupCode": "GROUP_A",
+  "priceListTypeCode": "STANDARD",
+  "currencyCode": "EUR",
+  "accountInterestRate": 10,
+  "personTypeCode": "P",
+  "intraOrgCode": "string",
+
+  "accountTypeSetupCode": "EXTERNAL_VIRTUAL",
+  "serviceProviderCode": "TUUM",
+  "accountNumbers": [
+    {
+      "accountNumber": {
+        "type": "IBAN",
+        "value": "DE89370400440532013000"
+      },
+      "countryCode": "EE",
+      "financialInstitutionId": {
+        "type": "BIC",
+        "value": "MAINDE2XXXX"
+      },
+      "defaultCurrencyCode": "EUR"
+}]
+}

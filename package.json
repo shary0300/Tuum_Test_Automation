@@ -1,0 +1,17 @@
+{
+  "name": "tuum-api-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^4.0.0",
+    "cypress": "^13.6.4",
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
